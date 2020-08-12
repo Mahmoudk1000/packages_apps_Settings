@@ -572,4 +572,16 @@
     <string name="theme_customization_statusbar_height_title">Statusbar Height</string>
     <string name="theme_customization_ui_radius_title">UI Radius</string>
 
+    <!-- About phone cards -->
+    <string name="card1">Device Model</string>
+    <string name="card2">Status</string>
+    <string name="card3">Android Version</string>
+    <string name="card4">Pearl Version</string>
+    <string name="card5">SeLinux Status</string>
+    <string name="card6">Maintainer</string>
+    <string name="cpu">CPU</string>
+    <string name="unknown">Unknown</string>
+    <string name="storage">Storage</string>
+    <string name="status_default">Phone number, Signal, etc.</string>
+
 </resources>

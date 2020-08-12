@@ -18,5 +18,9 @@
 
     <!-- Shortcuts -->
     <color name="icon_accent_custom">@*android:color/accent_device_default_light</color>
+    <color name="text_dark">@*android:color/omni_text1</color> <!-- Primary text color -->
+    <color name="about_background">@*android:color/omni_color1</color> <!-- Primary dark -->
+    <color name="about_dark_background">@*android:color/omni_color7</color> <!-- Primary light (Floating dialogs) -->
+    <color name="divider">@android:color/darker_gray</color>
 
 </resources>
